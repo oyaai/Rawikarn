@@ -19,9 +19,9 @@ Passionate about clean code, efficiency, and solving real-world problems through
 ---
 
 ## 🌐 Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-Rawikarn-black?style=flat&logo=github)](https://github.com/Rawikarn)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rawikarn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rawikarn/)
-[![Email](https://img.shields.io/badge/Email-rawikarn@example.com-red?style=flat&logo=gmail)](mailto:rawikarn@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Rawikarn-black?style=flat&logo=github)](https://github.com/oyaai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rawikarn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rawikarn-ketkaew-585683b9/)
+[![Email](https://img.shields.io/badge/Email-rawikarn@example.com-red?style=flat&logo=gmail)](mailto:rawikarn.k@gmail.com)
 
 ---
 
