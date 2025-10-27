@@ -16,6 +16,11 @@ Passionate about clean code, efficiency, and solving real-world problems through
 - 🔷 **TypeScript**
 - ⚙️ **ETC.**
 
+## tech stack 
+- Grafana
+- loki
+- alloy
+- kibana
 ---
 
 ## 🌐 Connect with Me
